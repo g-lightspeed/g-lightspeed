@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @g-lightspeed
-- 👀 I’m interested in Nest.js 
+- 👀 I’m interested in Smart Contract Audit, Nest.js and AWS
 - 😄 Pronouns: Mr
 
 <!---
