@@ -13,6 +13,7 @@
 
 ![image](https://github.com/user-attachments/assets/a9574891-786b-414f-a8bf-662e922205e8)
 
+<img width="768" height="768" alt="image" src="https://github.com/user-attachments/assets/60856a10-ed02-45e5-8fe8-ee2197c2e43d" />
 
 <!---
 g-lightspeed/g-lightspeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
