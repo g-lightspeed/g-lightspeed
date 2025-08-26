@@ -3,6 +3,14 @@
 - 😄 Pronouns: Mr
 - SR Profile: https://audits.sherlock.xyz/watson/montecristo
 
+Public Competition Highlights
+
+| Rank | Protocol | Area| Competition Platform | Link | Achievements |
+|:-----:|:----:|:--:|:------------------------:|:---:|:-----------:|
+|🥇|Forte 128|Math library|Code4rena|[ref](https://code4rena.com/audits/2025-03-forte-float128-solidity-library) |1 x M solo|
+|🥇|Zaros|Perpetual DEX|Codehawks|[ref](https://codehawks.cyfrin.io/contests/cm60h7a380000k66h6knt2vtl) |2 x H solo, 1 x M solo|
+|🥈 |Native|Swap Engine, Credit Pool|Sherlock|[ref](https://audits.sherlock.xyz/contests/971)|1M solo|
+
 ![image](https://github.com/user-attachments/assets/1eccec34-4e2f-47e9-96f8-17cb099cb875)
 
 ![image](https://github.com/user-attachments/assets/83684229-1b1a-41b7-a399-9f95cbc3dc5b)
