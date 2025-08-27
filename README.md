@@ -10,6 +10,7 @@ Public Competition Highlights
 |🥇|Forte 128|Math library|Code4rena|[ref](https://code4rena.com/audits/2025-03-forte-float128-solidity-library) |1 x M solo|
 |🥇|Zaros|Perpetual DEX|Codehawks|[ref](https://codehawks.cyfrin.io/contests/cm60h7a380000k66h6knt2vtl) |2 x H solo, 1 x M solo|
 |🥈 |Native|Swap Engine, Credit Pool|Sherlock|[ref](https://audits.sherlock.xyz/contests/971)|1M solo|
+|🥈 |Cap|Stablecoin|Sherlock|[ref](https://audits.sherlock.xyz/contests/990)||
 
 ![image](https://github.com/user-attachments/assets/1eccec34-4e2f-47e9-96f8-17cb099cb875)
 
@@ -25,6 +26,7 @@ Public Competition Highlights
 
 <img width="773" height="773" alt="image" src="https://github.com/user-attachments/assets/502d4758-63e4-4059-ae84-e643835a0af6" />
 
+<img width="773" height="773" alt="image" src="https://github.com/user-attachments/assets/50aa294c-98cb-4bdd-8391-ab0014d25207" />
 
 <!---
 g-lightspeed/g-lightspeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
