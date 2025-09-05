@@ -28,7 +28,8 @@ Public Competition Highlights
 <img width="773" height="773" alt="image" src="https://github.com/user-attachments/assets/502d4758-63e4-4059-ae84-e643835a0af6" />
 
 <img width="773" height="773" alt="image" src="https://github.com/user-attachments/assets/50aa294c-98cb-4bdd-8391-ab0014d25207" />
-<img width="742" height="773" alt="image" src="https://github.com/user-attachments/assets/c5d39fd0-414a-40f7-aa57-46bfe3634181" />
+<img width="773" height="773" alt="image" src="https://github.com/user-attachments/assets/cab79792-58c4-4f21-9ab0-4b758ef5d2a3" />
+
 
 <!---
 g-lightspeed/g-lightspeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
