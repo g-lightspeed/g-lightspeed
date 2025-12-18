@@ -10,6 +10,7 @@ Public Competition Highlights
 |🥇|Sequence|Smart Wallet|Code4rena|[ref](https://code4rena.com/audits/2025-10-sequence)|1 x H solo, Top Hunter, Top Gatherer, Top QA|
 |🥇|Forte 128|Math library|Code4rena|[ref](https://code4rena.com/audits/2025-03-forte-float128-solidity-library) |1 x M solo, Top Hunter|
 |🥇|Zaros|Perpetual DEX|Codehawks|[ref](https://codehawks.cyfrin.io/contests/cm60h7a380000k66h6knt2vtl) |1 x H solo, 2 x M solo|
+|🥇|Megapot|LP-backed Lottery|Code4rena|[ref](https://code4rena.com/audits/2025-11-megapot) |Top Hunter, Top Gatherer|
 |🥈|Native|Swap Engine, Credit Pool|Sherlock|[ref](https://audits.sherlock.xyz/contests/971)|1M solo|
 |🥈|Cap|Stablecoin|Sherlock|[ref](https://audits.sherlock.xyz/contests/990)||
 |🥉|GTE|CLOB|Code4rena|[ref](https://code4rena.com/audits/2025-07-gte-spot-clob-and-router)|Top Gatherer, Top QA|
@@ -20,6 +21,9 @@ Public Competition Highlights
 ![image](https://github.com/user-attachments/assets/1eccec34-4e2f-47e9-96f8-17cb099cb875)
 
 ![image](https://github.com/user-attachments/assets/83684229-1b1a-41b7-a399-9f95cbc3dc5b)
+
+<img width="867" height="867" alt="image" src="https://github.com/user-attachments/assets/f4634b41-d1b6-4e43-826b-388857a8478b" />
+
 
 ![image](https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/79bc5f93-bf48-41df-c9c9-f42cf67f0600/public)
 
