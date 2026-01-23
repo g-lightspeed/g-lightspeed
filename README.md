@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @g-lightspeed
-- 👀 I’m interested in Smart Contract Audit, Nest.js and AWS
-- 😄 Pronouns: Mr
-- SR Profile: https://audits.sherlock.xyz/watson/montecristo
+Senior Watson & Lead Judge@Sherlock | Judge@Code4rena
 
-Public Competition Highlights
+### Public Competition Highlights
 
 | Rank | Protocol | Area| Competition Platform | Link | Achievements |
 |:-----:|:----:|:--:|:------------------------:|:---:|:-----------:|
@@ -16,6 +13,8 @@ Public Competition Highlights
 |🥉|GTE|CLOB|Code4rena|[ref](https://code4rena.com/audits/2025-07-gte-spot-clob-and-router)|Top Gatherer, Top QA|
 |🥉|Yield Basis|Curve-native AMM, Leveraged LP Farm|Sherlock|[ref](https://audits.sherlock.xyz/contests/1102)||
 
+<details>
+<summary>Click to see shareable graphic cards</summary>
 <img width="2160" height="2160" alt="image" src="https://github.com/user-attachments/assets/16ac0d49-a80a-4b7e-8eac-5c460490f6e2" />
 
 ![image](https://github.com/user-attachments/assets/1eccec34-4e2f-47e9-96f8-17cb099cb875)
@@ -39,8 +38,17 @@ Public Competition Highlights
 <img width="773" height="773" alt="image" src="https://github.com/user-attachments/assets/cab79792-58c4-4f21-9ab0-4b758ef5d2a3" />
 
 <img width="1320" height="1320" alt="image" src="https://github.com/user-attachments/assets/1907e155-097b-442a-92b2-16b5a9017514" />
+</details>
 
-<!---
-g-lightspeed/g-lightspeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Private/Collaborative Audits
+
+| Project          | Category          | Link                                                                                                                               | Date     | Collaborators |
+|------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------|----------|---------------|
+| Blend Money      | Yield Aggregator  | Coming Soon                                                                                                                        | 2026/1   | [eeyore](https://audits.sherlock.xyz/watson/eeyore)        |
+| Yield Finance    | Tokenized RWA     | Coming Soon                                                                                                                        | 2025/12  | [Drynoo](https://audits.sherlock.xyz/watson/Drynooo)        |
+| Megapot          | VRF, Lottery      | Coming Soon                                                                                                                        | 2025/12  | [0xnevi](https://audits.sherlock.xyz/watson/0xnevi), [hgrano](https://code4rena.com/@hgrano) |
+| Syrax            | Swap Router       | [Report](https://github.com/zenith-security/reports/blob/main/reports/Syrax%20-%20Zenith%20Audit%20Report.pdf)                    | 2025/11  | [oakcobalt](https://audits.sherlock.xyz/watson/oakcobalt)     |
+| BiFlow/Dyad      | Token Vesting     | Coming Soon                                                                                                                        | 2025/11  | [oakcobalt](https://audits.sherlock.xyz/watson/oakcobalt)     |
+| Lume             | Prediction Market | Coming Soon                                                                                                                        | 2025/11  | [oakcobalt](https://audits.sherlock.xyz/watson/oakcobalt)     |
+| Sonz             | Vault for Social Game | [Report](https://github.com/zenith-security/reports/blob/main/reports/Sonz%20-%20Zenith%20Audit%20Report.pdf)                  | 2025/11  | [adriro](https://audits.sherlock.xyz/watson/adriro)        |
+| LootGo           | Token Forwarder   | [Report](https://github.com/zenith-security/reports/blob/main/reports/LootGO%20-%20Zenith%20Audit%20Report.pdf)                  | 2025/11  | [adriro](https://audits.sherlock.xyz/watson/adriro)        |
