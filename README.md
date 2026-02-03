@@ -46,6 +46,7 @@ Senior Watson & Lead Judge@Sherlock | Judge@Code4rena
 
 | Project          | Category          | Link                                                                                                                               | Date     | Collaborators |
 |------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------|----------|---------------|
+| Yearn stYFI      | Reward Distributor, vyper | Coming Soon | 2026/1 | [KupiaSec](https://audits.sherlock.xyz/watson/KupiaSec), [nmirchev8](https://audits.sherlock.xyz/watson/nmirchev8) |
 | Blend Money      | Yield Aggregator  | Coming Soon                                                                                                                        | 2026/1   | [eeyore](https://audits.sherlock.xyz/watson/eeyore)        |
 | Yield Finance    | Tokenized RWA     | Coming Soon                                                                                                                        | 2025/12  | [Drynoo](https://audits.sherlock.xyz/watson/Drynooo)        |
 | Megapot          | VRF, Lottery      | Coming Soon                                                                                                                        | 2025/12  | [0xnevi](https://audits.sherlock.xyz/watson/0xnevi), [hgrano](https://code4rena.com/@hgrano) |
