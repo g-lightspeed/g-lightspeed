@@ -4,6 +4,7 @@ Senior Watson & Lead Judge@Sherlock | Judge@Code4rena
 
 | Rank | Protocol | Area| Competition Platform | Link | Achievements |
 |:-----:|:----:|:--:|:------------------------:|:---:|:-----------:|
+|🥇|Swafe|ZK|Code4rena|[ref](https://code4rena.com/audits/2025-11-swafe)|1 x M solo, Top Hunter, Top Gatherer|
 |🥇|Sequence|Smart Wallet|Code4rena|[ref](https://code4rena.com/audits/2025-10-sequence)|1 x H solo, Top Hunter, Top Gatherer, Top QA|
 |🥇|Forte 128|Math library|Code4rena|[ref](https://code4rena.com/audits/2025-03-forte-float128-solidity-library) |1 x M solo, Top Hunter|
 |🥇|Zaros|Perpetual DEX|Codehawks|[ref](https://codehawks.cyfrin.io/contests/cm60h7a380000k66h6knt2vtl) |1 x H solo, 2 x M solo|
@@ -17,6 +18,9 @@ Senior Watson & Lead Judge@Sherlock | Judge@Code4rena
 
 <details>
 <summary>Click to see shareable graphic cards</summary>
+
+  <img width="773" height="773" alt="image" src="https://github.com/user-attachments/assets/748e7a63-c859-4573-9048-2bf37258ad1c" />
+
 <img width="2160" height="2160" alt="image" src="https://github.com/user-attachments/assets/16ac0d49-a80a-4b7e-8eac-5c460490f6e2" />
 
 ![image](https://github.com/user-attachments/assets/1eccec34-4e2f-47e9-96f8-17cb099cb875)
