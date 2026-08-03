@@ -44,6 +44,10 @@ Senior Watson & Lead Judge@Sherlock | Judge@Code4rena
 <img width="773" height="773" alt="image" src="https://github.com/user-attachments/assets/cab79792-58c4-4f21-9ab0-4b758ef5d2a3" />
 
 <img width="1320" height="1320" alt="image" src="https://github.com/user-attachments/assets/1907e155-097b-442a-92b2-16b5a9017514" />
+
+<img width="1320" height="1320" alt="image" src="https://github.com/user-attachments/assets/f1b0e477-6f45-4eef-9080-97286c5cfbd2" />
+
+
 </details>
 
 ### Private/Collaborative Audits
